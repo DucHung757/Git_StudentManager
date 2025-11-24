@@ -83,10 +83,11 @@ namespace bai_2_StudentManager
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-            txtID.Text = "";
+            
             cboGender.Text = "";
             txtName.Text = "";
-            
+            txtID.Text = "";
+
         }
     }
 }
