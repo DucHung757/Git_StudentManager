@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\",
+  "WorkspaceRootPath": "E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|e:\\b\u00E0i_t\u1EADp\\decktop\\git_studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|e:\\b\u00E0i_t\u1EADp\\studen_manager\\studentmanager\\bai_2_studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55751167-0E49-4445-B554-4224A4A47634}|bai_2_StudentManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\Form1.cs",
+              "DocumentMoniker": "E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\Form1.cs",
+              "ToolTip": "E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAtwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\Form1.cs",
+              "DocumentMoniker": "E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\B\u00E0i_T\u1EADp\\Studen_Manager\\StudentManager\\bai_2_StudentManager\\Form1.cs [Design]",
+              "ToolTip": "E:\\B\u00E0i_T\u1EADp\\Decktop\\Git_StudentManager\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T16:46:24.555Z",
